@@ -1,7 +1,7 @@
 # vue_flowertime
 # vue2.0 花点时间WebApp #
 
-使用vue2.0仿花点时间官网
+使用vue2.0仿花点时间官网制作的wabapp
 
 如果对您有帮助，可以点右上角 "Star" 支持一下 谢谢！
 
